@@ -1,7 +1,7 @@
 #################################################################################
 # Stacked HI 21cm Emission from DEEP2 galaxies at <z>=1.03			#
 # The spectrum is plotted as Figure 2 of					#
-# Chowdhury, Kanekar, Chengalur, Sethi, Dwarkhanath, 2020, Nature, xxx		#
+# Chowdhury, Kanekar, Chengalur, Sethi, Dwarakanath, 2020, Nature, xxx		#
 ################################################################################
 #Velocity (km/s)	L_HI (Jy Mpc^2)		1 sigma error on L_HI (Jy Mpc^2)
 -1455			465.57			571.58
